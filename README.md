@@ -1,6 +1,6 @@
 # Git Commit Activity Generator
 
-Automate the creation of git commits over a specified date range with customizable options for commit frequency, commit times, and more. This script helps you simulate activity in a repository by generating commits according to your specified parameters, which can be useful for testing, demonstrations, increase privacy or populating a repository's history.
+Automate the creation of git commits over a specified date range with customizable options for commit frequency, commit times, and more. This script helps you simulate activity in a repository by generating commits according to your specified parameters, which can be useful for testing, demonstrations, increase privacy (it is possible to set github activity to show your private repositories as well, so in this case use this repository as your private repository) or populating a repository's history.
 
 ## Features
 
